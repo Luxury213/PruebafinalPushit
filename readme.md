@@ -1,1 +1,1 @@
-Prueba para subir repositorio usando pushit antes de lanzarla a la tienda de vs 2
+Prueba para subir repositorio usando pushit antes de lanzarla a la tienda de vs 2 para proyecto con remote ya creado
