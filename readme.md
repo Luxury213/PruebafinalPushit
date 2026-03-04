@@ -1,1 +1,1 @@
-Prueba para subir repositorio usando pushit antes de lanzarla a la tienda de vs
+Prueba para subir repositorio usando pushit antes de lanzarla a la tienda de vs 2
